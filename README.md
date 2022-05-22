@@ -1,4 +1,4 @@
-# ANN-BY-BACK-PROPAGATION-ALGORITHM
+# ANN BY BACK PROPAGATION ALGORITHM
 
 ## Aim:
 To implement multi layer artificial neural network using back propagation algorithm.
